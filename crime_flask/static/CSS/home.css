@@ -1,0 +1,29 @@
+
+body{
+    background-image: linear-gradient(to right, white 48%, blue);
+}
+
+
+.home-top{
+    background-color: aqua;
+    box-shadow: 0px 10px;
+}
+
+
+h1{
+    color:blue;
+}
+
+.home-img{
+    border-radius: 10px;
+    height: 100%;
+}
+
+.container{
+    margin: 5%;
+}
+
+.pdt-inp{
+    height: auto;
+    width: auto;
+}
